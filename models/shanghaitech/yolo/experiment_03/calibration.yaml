@@ -1,0 +1,14 @@
+confidence_threshold: 0.04
+experiment: experiment_03_calibrated
+max_det: 1000
+metrics:
+  mae: 689.6333333333333
+  mae_high: 970.5
+  mae_low: 530.1818181818181
+  mae_med: 644.8181818181819
+  mape: 225.06018862011302
+  rmse: 901.9605867220585
+model_path: models/shanghaitech/yolo/experiment_03/best.pt
+nms_iou_threshold: 0.4
+tile_overlap: 0.15
+tile_size: 1024

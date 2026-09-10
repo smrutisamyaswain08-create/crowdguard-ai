@@ -1,0 +1,5 @@
+/* Reset default index stylesheet. All styles are declared in styles/theme.css */
+body {
+  margin: 0;
+  padding: 0;
+}
